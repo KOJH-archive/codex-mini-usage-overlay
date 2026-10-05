@@ -1,0 +1,7 @@
+codex-mini-usage-status.json
+codex-mini-usage-ui.log
+codex-mini-usage.disabled
+*.zip
+node_modules/
+.DS_Store
+Thumbs.db
